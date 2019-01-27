@@ -1,0 +1,12 @@
+D:\GITHUB programas\clonacion\ExWebApiAutos\ExWebApiAutos\Application\bin\Debug\netcoreapp2.1\Application.deps.json
+D:\GITHUB programas\clonacion\ExWebApiAutos\ExWebApiAutos\Application\bin\Debug\netcoreapp2.1\Application.dll
+D:\GITHUB programas\clonacion\ExWebApiAutos\ExWebApiAutos\Application\obj\Debug\netcoreapp2.1\Application.csprojAssemblyReference.cache
+D:\GITHUB programas\clonacion\ExWebApiAutos\ExWebApiAutos\Application\obj\Debug\netcoreapp2.1\Application.csproj.CoreCompileInputs.cache
+D:\GITHUB programas\clonacion\ExWebApiAutos\ExWebApiAutos\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfoInputs.cache
+D:\GITHUB programas\clonacion\ExWebApiAutos\ExWebApiAutos\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfo.cs
+D:\GITHUB programas\clonacion\ExWebApiAutos\ExWebApiAutos\Application\bin\Debug\netcoreapp2.1\Application.pdb
+D:\GITHUB programas\clonacion\ExWebApiAutos\ExWebApiAutos\Application\obj\Debug\netcoreapp2.1\Application.csproj.CopyComplete
+D:\GITHUB programas\clonacion\ExWebApiAutos\ExWebApiAutos\Application\obj\Debug\netcoreapp2.1\Application.dll
+D:\GITHUB programas\clonacion\ExWebApiAutos\ExWebApiAutos\Application\obj\Debug\netcoreapp2.1\Application.pdb
+D:\GITHUB programas\clonacion\ExWebApiAutos\ExWebApiAutos\Application\bin\Debug\netcoreapp2.1\Domain.dll
+D:\GITHUB programas\clonacion\ExWebApiAutos\ExWebApiAutos\Application\bin\Debug\netcoreapp2.1\Domain.pdb
